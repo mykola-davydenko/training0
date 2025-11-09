@@ -1,0 +1,102 @@
+[
+  {
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2022,
+    "color": "White",
+    "fuelType": "Petrol",
+    "horsepower": 203,
+    "priceUSD": 28000,
+    "country": "Japan"
+  },
+  {
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2023,
+    "color": "Black",
+    "fuelType": "Diesel",
+    "horsepower": 286,
+    "priceUSD": 67000,
+    "country": "Germany"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2021,
+    "color": "Silver",
+    "fuelType": "Petrol",
+    "horsepower": 255,
+    "priceUSD": 43000,
+    "country": "Germany"
+  },
+  {
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2024,
+    "color": "Red",
+    "fuelType": "Electric",
+    "horsepower": 283,
+    "priceUSD": 42000,
+    "country": "USA"
+  },
+  {
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2022,
+    "color": "Blue",
+    "fuelType": "Hybrid",
+    "horsepower": 230,
+    "priceUSD": 31000,
+    "country": "South Korea"
+  },
+  {
+    "brand": "Ford",
+    "model": "Mustang",
+    "year": 2023,
+    "color": "Yellow",
+    "fuelType": "Petrol",
+    "horsepower": 450,
+    "priceUSD": 55000,
+    "country": "USA"
+  },
+  {
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2021,
+    "color": "Gray",
+    "fuelType": "Diesel",
+    "horsepower": 190,
+    "priceUSD": 40000,
+    "country": "Germany"
+  },
+  {
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2022,
+    "color": "White",
+    "fuelType": "Petrol",
+    "horsepower": 180,
+    "priceUSD": 25000,
+    "country": "Japan"
+  },
+  {
+    "brand": "Kia",
+    "model": "Sportage",
+    "year": 2023,
+    "color": "Green",
+    "fuelType": "Hybrid",
+    "horsepower": 230,
+    "priceUSD": 32000,
+    "country": "South Korea"
+  },
+  {
+    "brand": "Volkswagen",
+    "model": "Golf GTI",
+    "year": 2022,
+    "color": "Red",
+    "fuelType": "Petrol",
+    "horsepower": 241,
+    "priceUSD": 37000,
+    "country": "Germany"
+  }
+]
